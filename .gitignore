@@ -34,3 +34,8 @@ dist/
 *.log
 # macOS metadata
 .DS_Store
+# Dataset files (keep local until redistribution permission is confirmed)
+data/**/*.csv
+
+# macOS metadata
+.DS_Store
