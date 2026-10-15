@@ -1,0 +1,36 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Generated Python package files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+# macOS metadata
+.DS_Store
